@@ -1,7 +1,7 @@
 Bonjour,
 
-Je suis William Jonas, actuellement élève ingénieur en dernière année à l'école centrale de Marseille et en double diplome en Intelligence Artificielle et Apprentissage Automatique.
+Je suis William Jonas, ingénieur centralien spécialisé en Machine Learning & DataScience.
 
-Vous pourrez retrouver ici différents projets qui m'ont semblés pertinents et représentatifs parmis mes expériences passées.
+Vous pourrez retrouver ici quelques projets issus de mes expériences personelles et projets scolaires passés.
 
 Bonne lecture!
